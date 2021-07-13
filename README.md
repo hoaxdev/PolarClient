@@ -1,5 +1,5 @@
 # PolarClient
-A place for working on the client.
+> When will mods work?
 
 Imported Stuff:
 - [x] Website
