@@ -18,6 +18,4 @@ Imported Stuff:
 - [ ] Client
 - [ ] Jar Files
 
-
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/RG2N/PolarClient/stargazers/)
-
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=PolarClient&logo=discord&style=flat-square)](https://discord.gg/vpEv3HJ)
