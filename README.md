@@ -1,7 +1,7 @@
 # PolarClient
 > When will mods work?
 
-[![Generic badge](https://img.shields.io/badge/Client Working?-Yes-<COLOR>.svg)]()
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 Imported Stuff:
 - [x] Website
