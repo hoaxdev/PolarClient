@@ -1,7 +1,7 @@
 # PolarClient
 > When will mods work?
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Client Working?-Yes-<COLOR>.svg)]()
 
 Imported Stuff:
 - [x] Website
